@@ -27,6 +27,7 @@ phases:
                   php7.1-dom \
                   php-xdebug \
                   php7.1-curl \
+                  php7.1-composer \
                   unzip
 
          #Enable xdebug - phpunit uses this for code coverage
